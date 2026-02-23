@@ -1,11 +1,39 @@
-<div align="center">
+# Galaxy Defense Command
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A retro-style arcade missile defense game built with React, TypeScript, and Tailwind CSS.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Retro Arcade Gameplay**: Intercept falling rockets to protect your cities.
+- **Dynamic Difficulty**: Choose between Easy, Normal, and Hard modes.
+- **Visual Effects**: High-impact firework explosions with radial gradients and sparkles.
+- **Bilingual Support**: Full English and Chinese localization.
+- **Responsive Design**: Optimized for various screen sizes.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- **Frontend**: React 18
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **Animations**: Framer Motion
+- **Build Tool**: Vite
+
+## Deployment to Vercel
+
+1. Push this code to a GitHub repository.
+2. Connect your GitHub account to [Vercel](https://vercel.com).
+3. Import the repository.
+4. Vercel will automatically detect the Vite settings and deploy your app.
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
